@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Lam Vo
 
-🚀 **Java Fullstack Developer** | Passionate about building scalable web applications and efficient backend systems.
+🚀 **Fullstack Developer** | Passionate about building scalable web applications and efficient backend systems.
 
 ## 🛠 Tech Stack
 - **Programming Languages:** Java, NodeJS, Python, C#, PHP
