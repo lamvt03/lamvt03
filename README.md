@@ -8,7 +8,7 @@
 - **Frontend Frameworks:** ReactJS, NextJS, TailwindCSS, Boostrap
 - **Database:** PostgreSQL, MySQL, MongoDB, Redis
 - **Testing:** Integration Test, Unit Test
-- **DevOps:** Docker, Docker Compose
+- **DevOps:** Docker, GitHub Actions
 - **Other:** GraphQL, REST APIs
 
 ## 📈 GitHub Stats
