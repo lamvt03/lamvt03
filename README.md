@@ -5,7 +5,7 @@
 ## 🛠 Tech Stack
 - **Programming Languages:** Java, NodeJS, Python, C#, PHP
 - **Backend Frameworks:** Spring Boot, NestJS, FastAPI, Yii2
-- **Frontend Frameworks:** ReactJS, NextJS, TailwindCSS, Boostrap
+- **Frontend Frameworks:** ReactJS, NextJS, Shadcn UI, TailwindCSS, Boostrap
 - **Database:** PostgreSQL, MySQL, MongoDB, Redis
 - **Testing:** Integration Test, Unit Test
 - **DevOps:** Docker, CI/CD
